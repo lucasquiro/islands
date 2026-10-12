@@ -1,0 +1,123 @@
+[
+  {
+    "nombre": "Zona 1: Main Survival",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 24319, "z": -290 },
+    "pos2": { "x": 12352, "z": -5504 },
+    "color": "#09BAD9",
+    "prioridad": 1,
+    "lore": "Es una parte del mapa con islas no canonicas donde se encuentra el main survival",
+    "gameplay": "Es una zona de exploración y farmeo de materiales",
+    "aparicion": "La ziba entera no es canonica y no aparece en ningun episodio"
+  },
+  {
+    "nombre": "Zona 2: Misiones",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 12351, "z": -290 },
+    "pos2": { "x": 12, "z": -5504 },
+    "color": "#9D1CAD",
+    "prioridad": 1,
+    "lore": "Es una zona del mapa con las islas canonicas de one piece y el nucleo principal de gameplay",
+    "gameplay": "Es la zona de misiones",
+    "aparicion": "Todas las islas de esta zona aparecen en alguna parte del manga o anime de one piece"
+  },
+  {
+    "nombre": "Zona 3: No jugable",
+    "ubicacion": "Grand Line",
+    "pos1": { "x": 12351, "z": 6640 },
+    "pos2": { "x": 12, "z": -289 },
+    "color": "#CCCC16",
+    "prioridad": 1,
+    "lore": "Esta zona no es accesible por ahora ya que esta en contrucción",
+    "gameplay": "Innacesible por ahora",
+    "aparicion": "Todas las islas de esta zona aparecen en alguna parte del manga o anime de one piece"
+  },
+  {
+    "nombre": "Zona 4: No jugable",
+    "ubicacion": "Grand Line",
+    "pos1": { "x": 24319, "z": -289 },
+    "pos2": { "x": 12352, "z": 6640 },
+    "color": "#16CC3D",
+    "prioridad": 1,
+    "lore": "Esta zona no es accesible por ahora ya que esta en contrucción",
+    "gameplay": "Innacesible por ahora",
+    "aparicion": "Todas las islas de esta zona aparecen en alguna parte del manga o anime de one piece"
+  },
+  {
+    "nombre": "Zona 5: No jugable",
+    "ubicacion": "Red Line",
+    "pos1": { "x": 40700, "z": -5504 },
+    "pos2": { "x": 24320, "z": 6640 },
+    "color": "#D90909",
+    "prioridad": 1,
+    "lore": "Esta zona no es accesible por ahora ya que esta en contrucción",
+    "gameplay": "Innacesible por ahora",
+    "aparicion": "Todas las islas de esta zona aparecen en alguna parte del manga o anime de one piece"
+  },
+    {
+    "nombre": "Chinju no shima",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 2319, "z": -385 },
+    "pos2": { "x": 1792, "z": -912 },
+    "color": "#d4ed5e",
+    "prioridad": 2,
+    "lore": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gameplay": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "aparicion": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "nombre": "Isla inicial Marines",
+    "ubicacion": "Zona 1: East Blue",
+    "pos1": { "x": 17935, "z": -2529 },
+    "pos2": { "x": 17280, "z": -3248 },
+    "color": "#054585",
+    "prioridad": 2,
+    "lore": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "gameplay": "Es la isla donde aparecen todos los jugadores que eligen la facción marinas y casarecompensas",
+    "aparicion": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "nombre": "Krieg vs Baratie",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 3423, "z": -1344 },
+    "pos2": { "x": 3248, "z": -1057 },
+    "color": "#A2FCF1",
+    "prioridad": 2,
+    "lore": "Tras que el Dreadnaught Sabre quedara seriamente dañado por Mihawk, Don Krieg y su tripulación deciden remplazar el su barco por el baratie y se enfrentan a Sanji y Zeff. Esta batalla es una de las primeras que aparecen en la serie de One Piece",
+    "gameplay": "Batalla del anime que se puede encontrar en el East Blue, no tiene ninguna función de gameplay",
+    "aparicion": "One Piece manga y anime — Vol. 8 Capítulo 67 y Episodio 30, Krieg decide sustituir el Dreadnaught Sabre por el restaurante Baratie."
+  },
+  {
+    "nombre": "Miss Love Duck",
+    "ubicacion": "Goat Island",
+    "pos1": { "x": 6591, "z": -737 },
+    "pos2": { "x": 6528, "z": -784 },
+    "color": "#FA8EF8",
+    "prioridad": 3,
+    "lore": "Es el barco principal de los Piratas de Alvida y es el primer barco que aparece en la serie de One Piece, es un barco de lujo con forma de pato",
+    "gameplay": "Barco decorativo que se puede encontrar en Goat Island, no tiene ninguna función de gameplay",
+    "aparicion": "One Piece manga y anime — Vol. 1 Capítulo 2 y Episodio 1."
+  },
+  {
+    "nombre": "Baratie",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 3407, "z": -1184 },
+    "pos2": { "x": 3280, "z": -1073 },
+    "color": "#FCF9A2",
+    "prioridad": 3,
+    "lore": "Es un restaurante flotante en el East Blue, propiedad de Zeff y es donde trabaja Sanji como cocinero. Es un barco de lujo con forma de pez",
+    "gameplay": "Barco decorativo que se puede encontrar en East Blue, no tiene ninguna función de gameplay",
+    "aparicion": "Manga y anime de One Piece — Vol. 5 Capítulo 43 (pág. 3) y Episodio 20, la romanización del nombre del Baratie se puede ver en su lateral."
+  },
+  {
+    "nombre": "Dreadnaught Sabre",
+    "ubicacion": "East Blue",
+    "pos1": { "x": 3248, "z": -1249 },
+    "pos2": { "x": 3407, "z": -1328 },
+    "color": "#FA8EF8",
+    "prioridad": 3,
+    "lore": "Es el barco de Don Krieg, un pirata que aparece en el East Blue. Es una fragate de guerra destruida",
+    "gameplay": "Barco decorativo que se puede encontrar en East Blue, no tiene ninguna función de gameplay",
+    "aparicion": "Manga y anime de One Piece — Vol. 6 Capítulo 46 y Episodio 21. One Piece Yellow: Grand Elements, se reveló el nombre del Dreadnaught Sabre. One Piece Manga y anime — Vol. 8 Capítulo 67 y Episodio 30."
+  }
+]
